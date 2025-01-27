@@ -1,9 +1,9 @@
 
-const nombre = 'Wolverine'
+let nombre = 'Wolverine'
 
 if (true) {
-     let nombre = 'Magneto'
-    // console.log(nombre)
+      const nombre = 'Magneto'
+    console.log(nombre)
 }
 
 console.log(nombre);
